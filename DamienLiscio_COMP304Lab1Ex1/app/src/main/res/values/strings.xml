@@ -1,0 +1,5 @@
+<resources>
+    <string name="CreateNote">DamienLiscio_COMP304Lab1Ex1</string>
+    <string name="title_activity_create_note">CreateNote</string>
+    <string name="title_activity_edit_note">EditNote</string>
+</resources>
