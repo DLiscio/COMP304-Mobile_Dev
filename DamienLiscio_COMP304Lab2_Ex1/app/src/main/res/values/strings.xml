@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">TrackMyDay</string>
-    <string name="title_activity_create_task">CreateTask</string>
-    <string name="title_activity_edit_task">EditTask</string>
-    <string name="title_activity_completed_tasks">CompletedTasks</string>
-</resources>
